@@ -1,0 +1,9 @@
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\zulki\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
